@@ -1,7 +1,10 @@
-<h1 align="center">
-  🌐 Website Portofolio 
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C4033,100:A67B5B&height=220&section=header&text=Website%20Portfolio&fontSize=42&fontColor=FFF8F0&fontAlignY=35&font=Playfair%20Display" />
+</p>
 
+![Status](https://img.shields.io/badge/Project-Completed-success?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-blue?style=flat-square)
+![Static](https://img.shields.io/badge/Type-Static%20Website-orange?style=flat-square)
 
 --- 
 
@@ -374,3 +377,17 @@ Di dalam navbar terdapat nama atau brand website yang ditampilkan di sisi kiri s
 ```
 Pada bagian Footer, struktur dibuat sebagai penutup halaman yang terletak di bagian paling bawah website. Footer ini berfungsi untuk memberikan informasi tambahan sekaligus menandai akhir dari konten halaman. Isi dari footer menampilkan informasi copyright sebagai bentuk identitas pemilik website dan tahun pembuatan project.
 Tampilan footer dibuat sederhana agar tetap selaras dengan desain keseluruhan website. Pengaturan seperti warna background, warna teks, ukuran font, serta posisi teks di tengah diatur melalui class khusus pada file CSS.
+
+# Teknologi yang Digunakan
+
+![HTML](https://img.shields.io/badge/HTML-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+HTML digunakan sebagai struktur utama dalam pembuatan website ini. Semua bagian seperti Navbar, Home, About Me, Certificates, dan Footer disusun menggunakan elemen HTML agar konten tersusun rapi dan terstruktur dengan baik. HTML berperan sebagai kerangka dasar dari seluruh halaman website.
+
+![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+CSS digunakan untuk mengatur tampilan visual website seperti warna background, font, ukuran teks, jarak antar elemen, border radius, serta desain progress bar dan card. Dengan CSS, tampilan website menjadi lebih menarik, konsisten, dan sesuai dengan konsep desain yang diinginkan.
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Responsive%20Layout-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+Bootstrap 5 digunakan untuk membantu proses layouting dan membuat website menjadi responsif. Fitur seperti container, row, dan col digunakan untuk menyusun layout agar otomatis menyesuaikan ukuran layar. Selain itu, komponen seperti navbar, card, button, dan utilities spacing juga mempermudah pembuatan tampilan yang rapi tanpa harus menulis semua styling dari awal.
