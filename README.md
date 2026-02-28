@@ -2,10 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C4033,100:A67B5B&height=220&section=header&text=Website%20Portfolio&fontSize=42&fontColor=FFF8F0&fontAlignY=35&font=Playfair%20Display" />
 </p>
 
-![Status](https://img.shields.io/badge/Project-Completed-success?style=flat-square)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-blue?style=flat-square)
-![Static](https://img.shields.io/badge/Type-Static%20Website-orange?style=flat-square)
+<p align="center">────────── ✿ ──────────</p>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Project-Completed-A67B5B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Responsive-Yes-D2B48C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Static%20Website-8B6F5C?style=for-the-badge" />
+
+</div>
+
+<p align="center">────────── ✿ ──────────</p>
+
+---
+
+| Keterangan | Detail |
+|------------|--------|
+| **Nama**   | Zelsya Rizqita Rahmadhini |
+| **NIM**    | 2409116022 |
+| **Kelas**  | A'24 Sistem Informasi |
 --- 
 
 ## Deskripsi Project
@@ -197,6 +212,8 @@ Pada bagian Skills, kemampuan ditampilkan dalam bentuk progress bar yang menunju
 
 Sementara itu, bagian Experience menampilkan daftar pengalaman dalam bentuk poin-poin agar informasi lebih terorganisir dan mudah dibaca. Pengaturan jarak, perataan teks, serta spacing antar elemen dibantu oleh class dari Bootstrap sehingga tampilan tetap proporsional dan responsif di berbagai ukuran layar.
 
+---
+
 ### Certificates Section
 
 ``` bash
@@ -337,6 +354,8 @@ Pada bagian Certificates, struktur dibuat agar dapat terhubung dengan menu navig
 
 Setiap sertifikat ditampilkan dalam bentuk card yang berisi gambar sertifikat dan tombol untuk melihat versi yang lebih besar. Ketika tombol diklik, gambar akan terbuka di tab baru sehingga pengguna dapat melihat detail sertifikat dengan lebih jelas. Tampilan visual seperti sudut card yang melengkung, warna tombol, dan jarak antar elemen diatur melalui file CSS agar desain tetap konsisten dengan tema keseluruhan website.
 
+---
+
 ### Navbar
 
 ```bash
@@ -369,6 +388,8 @@ Pada bagian Navbar, struktur dibuat sebagai navigasi utama yang berada di bagian
 
 Di dalam navbar terdapat nama atau brand website yang ditampilkan di sisi kiri sebagai identitas utama. Sementara itu, di sisi kanan terdapat menu navigasi yang mengarah ke section Home, About Me, dan Certificates. Setiap menu menggunakan sistem anchor link sehingga ketika diklik, halaman akan langsung berpindah ke bagian yang sesuai tanpa membuka halaman baru.
 
+---
+
 ### Footer
 ```bash
 <footer class="custom-footer">
@@ -377,6 +398,8 @@ Di dalam navbar terdapat nama atau brand website yang ditampilkan di sisi kiri s
 ```
 Pada bagian Footer, struktur dibuat sebagai penutup halaman yang terletak di bagian paling bawah website. Footer ini berfungsi untuk memberikan informasi tambahan sekaligus menandai akhir dari konten halaman. Isi dari footer menampilkan informasi copyright sebagai bentuk identitas pemilik website dan tahun pembuatan project.
 Tampilan footer dibuat sederhana agar tetap selaras dengan desain keseluruhan website. Pengaturan seperti warna background, warna teks, ukuran font, serta posisi teks di tengah diatur melalui class khusus pada file CSS.
+
+---
 
 # Teknologi yang Digunakan
 
@@ -391,3 +414,5 @@ CSS digunakan untuk mengatur tampilan visual website seperti warna background, f
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Responsive%20Layout-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 Bootstrap 5 digunakan untuk membantu proses layouting dan membuat website menjadi responsif. Fitur seperti container, row, dan col digunakan untuk menyusun layout agar otomatis menyesuaikan ukuran layar. Selain itu, komponen seperti navbar, card, button, dan utilities spacing juga mempermudah pembuatan tampilan yang rapi tanpa harus menulis semua styling dari awal.
+
+---
