@@ -135,6 +135,7 @@ html, body {
 .about-section {
     padding: 120px 0 100px 0;
     padding-bottom: 80px;
+    width: 100%;
     background: linear-gradient(
         to bottom,
         #e6d5c3 0%,
@@ -237,15 +238,15 @@ html, body {
 /* ================= CERTIFICATES ================= */
 .certificates-section {
     background-color: #a67b5b;
-    padding: 10px 0 0 0;
-    padding-top: 120px;
-    width: 100vw;          
-    margin-left: calc(-50vw + 50%);
+    padding: 120px 0;
     margin-top: 80px;
-}
-.certificates-section .container {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
+
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    width: 100vw;
 }
 .section-title {
     color: #5c4033;
@@ -306,4 +307,11 @@ body {
   margin-top: auto;
   text-align: center;
   padding: 20px;
+}
+body {
+    background-color: #a67b5b;
+}
+
+body {
+    overflow-x: hidden;
 }
